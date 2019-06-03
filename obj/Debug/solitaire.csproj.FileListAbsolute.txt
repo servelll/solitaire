@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\bin\Debug\solitaire.exe.config
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\bin\Debug\solitaire.exe
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\bin\Debug\solitaire.pdb
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.exe
+c:\users\user\documents\visual studio 2013\Projects\solitaire\solitaire\obj\Debug\solitaire.pdb
